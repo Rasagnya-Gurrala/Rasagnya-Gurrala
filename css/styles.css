@@ -1,0 +1,157 @@
+
+body{
+    margin: 0;
+    background-color: #f1e3f1;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+
+.top-container{
+    position: relative;
+    color: #e29ef7;;
+    padding-top: 20px;
+    
+}
+
+.middle-container{
+    padding: 1px 0px 60px 0px;
+    background-color: white;
+    color: 510026;
+
+}
+
+.bottom-container{
+    background-color: #f1e3f1 ;
+    color: white;
+    padding: 20px 10px;
+}
+
+.prop{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5rem;
+    color: #8f778e;
+    font-weight: normal;
+}
+h1{
+    color: #8f778e;
+    font-size: 5rem;
+    margin: 50px auto 0px auto;
+    font-family: 'Montez', cursive;
+    line-height: 2;
+}
+
+h3{
+    color: #865786;
+    font-size: 1.5em;
+}
+
+h2{
+    color: #865786;
+    font-size: 2em;
+}
+
+h4{
+    color: #865786;
+    font-size: 1em;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    color: #8f778e;
+    font-weight: normal;
+
+} 
+
+li{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    color: #8f778e;
+    font-weight: normal;
+}
+
+.pro{
+    text-decoration: underline;
+    
+}
+
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #9d84aca8;
+    border-width: 7px;
+    width: 7%;
+}
+
+.footer-link {
+    color: #865786;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    word-spacing: 2rem;
+    margin: 10px 12px;
+    text-decoration: none;
+  }
+
+.footer-link:hover {
+    color: #702970;
+  }
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+} 
+
+.profile{
+    width: 50%;
+    margin: 100px auto;
+    text-align: center;
+    line-height: 2;
+}
+
+
+.name{
+    color: #865786;
+    padding: 10px 20px;
+    font-size: 1rem;
+}
+
+
+.btn{
+    background: #8f778e;
+    background-color: #8f778e;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    border-radius: 14px;
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 15px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn:hover{
+    background-color: #702970;
+}
+
+.rounded-circle {
+    border-radius: 50% !important;
+    width: 50%;
+    height: 50%;
+    float: center;
+  }
+
+.edu{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    color: #8f778e;
+    font-weight: normal;
+}
